@@ -1,4 +1,4 @@
-# Portfolio_Jhunter
+# Portfolio_Joaohunter
 Portfólio feito durante o curso de CSS no bootcamp FullStack da plataforma  DIO.
 
 ## Link do site (pages)
